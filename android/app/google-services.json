@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182745257645",
+    "project_id": "plasmadonate-6207e",
+    "storage_bucket": "plasmadonate-6207e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182745257645:android:a6dc9e989b92a622f05824",
+        "android_client_info": {
+          "package_name": "com.example.covid_relief"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182745257645-vgeum07tt57uboe50kv98ec0c627h8vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid_relief",
+            "certificate_hash": "4a8affa47887d601b2f0772d8c13c22782753b08"
+          }
+        },
+        {
+          "client_id": "182745257645-f6hoq9fsi1qqrs1ftjag8j5po7l9cjjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgiWLVTRDBvPcCQzY3EuTC5YkrJ6DGUH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182745257645-f6hoq9fsi1qqrs1ftjag8j5po7l9cjjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
