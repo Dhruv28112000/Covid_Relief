@@ -32,10 +32,7 @@ TwilioFlutter twilioFlutter;
 
  // bool get bloodgrp => bloodgrp;
   void initState() {
- twilioFlutter = TwilioFlutter(
-        accountSid: 'AC4502d6a6244600e20786f245b4cb6047',
-        authToken: '9feb9d1d87a87fcd224c5fe4666979e9',
-        twilioNumber: '+19189922347');  
+
     // total = 0;
     //getFriend();
     _data = getData();
